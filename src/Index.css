@@ -9,8 +9,3 @@ p:hover{
     font-size: 17px;
     transition: linear .1s;
 }
-footer{
-    background-color: black;
-    color: aliceblue;
-    text-align: center;
-}
